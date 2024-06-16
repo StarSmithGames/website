@@ -1,0 +1,10 @@
+body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; }
+.t-text {
+    font-family: 'Ultima',Arial,sans-serif;
+    font-weight: 300;
+    color: #000000
+}
+.t-text_md {
+    font-size: 20px;
+    line-height: 1.55
+}
